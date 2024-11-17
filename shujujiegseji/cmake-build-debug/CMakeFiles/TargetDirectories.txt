@@ -1,0 +1,3 @@
+D:/Users/32082/Desktop/shujujiegseji/cmake-build-debug/CMakeFiles/shujujiegsheji.dir
+D:/Users/32082/Desktop/shujujiegseji/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/32082/Desktop/shujujiegseji/cmake-build-debug/CMakeFiles/rebuild_cache.dir
